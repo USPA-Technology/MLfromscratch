@@ -2,7 +2,8 @@
 
 > Machine Learning algorithm implementations from scratch.
 
-You can find Tutorials with the math and code explanations on my channel: [Here](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+* You can find Tutorials with the math and code explanations on my channel: [Here](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+* [Machine Learning From Scratch In Python - Full Course With 12 Algorithms](https://www.youtube.com/watch?v=rLOyrWV8gmA)
 
 ## Algorithms Implemented
 
